@@ -1,0 +1,17 @@
+scrapy
+selenium
+mrjob
+pyodbc
+pyspark
+pandas
+nltk
+tensorflow
+polars
+catboost
+mlflow
+matplotlib
+pydot
+graphviz
+torch
+jupyter_contrib_nbextensions
+jupyter_nbextensions_configurator
