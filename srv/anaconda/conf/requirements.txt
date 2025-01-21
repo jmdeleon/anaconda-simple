@@ -15,3 +15,6 @@ graphviz
 torch
 jupyter_contrib_nbextensions
 jupyter_nbextensions_configurator
+xgboost
+seaborn
+sagemaker
